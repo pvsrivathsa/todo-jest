@@ -1,0 +1,11 @@
+exports[`test should render the todo component 1`] = `
+<li
+  onClick={[Function]}
+  style={
+    Object {
+      "textDecoration": "none",
+    }
+  }>
+  Attend Chennai JS Meetup
+</li>
+`;
